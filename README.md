@@ -1,0 +1,1 @@
+This example demonstrates a common error in COBOL involving the REDEFINES clause.  Improper use of REDEFINES can lead to data corruption or unpredictable results.  The solution shows how to avoid these issues by carefully managing data within redefined areas and adhering to best practices.
